@@ -1,19 +1,18 @@
 #  Tonight's Meal
 
-## Required Features
-Native Frameworks
+## Native Frameworks
 - UIKit (UIScrollView)
 - ImagePicker
 - UITableView
 - UICollectionView
 
-3rd-Party Frameworks
+## 3rd-Party Frameworks
 - Kingfisher
 - Spoonacular API (3 endpoints)
 - Firebase Auth
 - Firebase Firestore
 
-Features
+## Features
 - Login/Signup with Firebase Auth
 - Auto-login if user doesn't sign out but terminates app
 - Generate Recipes page (option to include generic pantry items, 1 Spoonacular endpoint)
