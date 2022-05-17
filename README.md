@@ -1,4 +1,5 @@
 #  Tonight's Meal
+ITP342 Final Project
 
 ## Native Frameworks
 - UIKit (UIScrollView)
